@@ -92,7 +92,8 @@ main {
 }
 
 #About-me img {
-    width: 10rem;
+    height: 55%;  
+    width: 70%;
     border-radius: 100%;
 }
 
